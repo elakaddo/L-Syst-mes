@@ -1,0 +1,13 @@
+{
+	"axiom" : "F",
+	"angle" : 35.0 ,
+	"nbIterations" : 4 ,
+	"nbRegles" : 1 ,
+	"regles" :
+	[
+		{
+			"1.a" : "F",
+			"1.b" : "F[+FF][-FF]F[-F][+F]F"
+		}
+	]
+}

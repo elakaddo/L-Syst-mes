@@ -1,0 +1,17 @@
+{
+	"axiom" : "X",
+	"angle" : 22.5,
+	"nbIterations" : 5,
+	"nbRegles" : 2 ,
+	"regles" :
+	[
+		{
+			"1.a" : "F",
+			"1.b" : "FF"
+		},
+		{
+			"2.a" : "X",
+			"2.b" : "F-[[X]+X]+F[+FX]-X"
+		}
+	]
+}
